@@ -1,0 +1,22 @@
+.box {
+  width: 30%;
+  margin: 20px auto 0;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: left;
+}
+
+.img {
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+span {
+  font-size: 20px;
+}
+
+.content {
+  color: #666;
+}
